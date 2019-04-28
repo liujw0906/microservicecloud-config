@@ -5,13 +5,13 @@
     
 ---
 spring:
-  profiles: 
+  profiles: dev
     application: 
       name: microservicecloud-config-liujw-dev
       
 ---
 spring:
-  profiles: 
+  profiles: test
     application: 
       name: microservicecloud-config-liujw-test
 
