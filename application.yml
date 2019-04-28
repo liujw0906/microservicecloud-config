@@ -6,14 +6,14 @@
 ---
 spring:
   profiles: dev
-    application: 
-      name: microservicecloud-config-liujw-dev
+  application: 
+    name: microservicecloud-config-liujw-dev
       
 ---
 spring:
   profiles: test
-    application: 
-      name: microservicecloud-config-liujw-test
+  application: 
+    name: microservicecloud-config-liujw-test
 
       
 # 请一定保存为UT-8 格式
