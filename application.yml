@@ -1,4 +1,4 @@
-﻿springL:
+﻿spring:
   profiles:
     active:
     - dev
