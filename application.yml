@@ -1,1 +1,19 @@
-﻿spring
+﻿springL:
+  profiles:
+    active:
+    - dev
+    
+---
+spring:
+  profiles: 
+    application: 
+      name: microservicecloud-config-liujw-dev
+      
+---
+spring:
+  profiles: 
+    application: 
+      name: microservicecloud-config-liujw-test
+
+      
+# 请一定保存为UT-8 格式
